@@ -18,7 +18,8 @@
 - Esto es una lista desordenada item 2
 - Esto es un elemento de una lista animada.
 
-[Esto va a ser un elance al IES Alixar] (http://iesalixar.org)
+[Esto va a ser un e
+lance al IES Alixar] (http://iesalixar.org)
 
 ![Esto es una imagen de 400x400]
 
