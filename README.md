@@ -24,7 +24,7 @@ Lista ordenada:
 
 ![Esto es una imagen de 400x400](https://placehold.co/400x400)
 
-![Esto es una imagen de repositorio](img/mi-imagen.png)
+![Esto es una imagen de repositorio](img/imagen.jpeg)
 
 > Esto es una cita
 
