@@ -50,6 +50,6 @@ Tablas
 - `:---:` centro
 
 
-[Ver cambios en el CHANGELOG](CHANGELOG.md)
+[Ver cambios en el CHANGELOG](CHANGELOG_RBP.md)
 
 
