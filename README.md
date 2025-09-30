@@ -50,6 +50,6 @@ Tablas
 - `:---:` centro
 
 
-[Ver cambios en el CHANGELOG](CHANGELOG_RBP.md)
+[Ver cambios en el CHANGELOG](https://github.com/RocioBaena87/daweb-2526-u01-markdown-rbp/blob/main/CHANGELOG_RBP.md)
 
 
