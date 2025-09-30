@@ -22,4 +22,4 @@ Todos los cambios importantes de este proyecto se documentarán aquí.
 - Espaciado correcto en los enlaces (`[texto](url)`).
 
 ### Próximos pasos
-- Ampliar el `CHANGELOG.md` con nuevas versiones según se realicen cambios futuros.
+- Ampliar el `CHANGELOG_RBP.md` con nuevas versiones según se realicen cambios futuros.
